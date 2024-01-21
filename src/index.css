@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom {
+  box-shadow: -3.942500114440918px 3.942500114440918px 3.942500114440918px 0px
+    #ffffff6e inset;
+  box-shadow: 3.942500114440918px -3.942500114440918px 3.942500114440918px 0px #b6b6b66e
+    inset;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
